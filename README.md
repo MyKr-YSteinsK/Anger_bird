@@ -46,9 +46,7 @@ Game_v2/      本地导出的 Windows 构建
 
 ## 如何打开
 
-1. 使用 Unity Hub 打开 `Anger bird` 文件夹。
-2. 使用与项目兼容的 Unity 版本，当前仓库记录为 `2022.3.25f1`。
-3. 打开 `Assets/Scenes/SampleScene.unity` 或 `Assets/Scenes/Scene2.unity` 运行。
+给了exe，直接运行
 
 ## 说明
 
